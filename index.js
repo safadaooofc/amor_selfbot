@@ -1,8 +1,8 @@
 const { Client } = require('discord.js-selfbot-v13');
 const client = new Client();
 
-const USER_TOKEN = 'MTM4MTc5OTczMDk4MzQ2OTEwNw.GfNYKd.Dw5bOvJFdWh2TooJz3H9yPkOrTZNK9KYstoatk'; // Substitua pelo seu token de usuário
-const TARGET_USER_ID = '1340435615333875757'; // Substitua pelo seu ID de usuário
+const USER_TOKEN = ''; // Substitua pelo seu token de usuário
+const TARGET_USER_ID = ''; // Substitua pelo seu ID de usuário
 
 const romanticMessages = [
     "Te amo com todas as forças, meu amor! luiza eu te amo",
